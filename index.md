@@ -9,18 +9,27 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education & Career
+* Dankook Univ. (2012/03 ~ 2020/02)
+  * Major : Department of Computer Science and Engineering
+    * Study Developed language (C++, c#, java)
+    * Study SQL language (Mysql)
+* Telcoware (2019/11 ~ )
+  * Developed 5G Core Solutions.
+  * Developed 3G/4G Core Solutions.
+  * Used Developed language (C, Golang, SQL)
+
+<br/>
+
+# Skill
+* C language : Expert
+* Golang : Professional 
+* java : Advanced
+* Mysql : Professional
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+* Unreal Engine 4,5
+* Piano
+* marathon  
