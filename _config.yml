@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: Rupeul's Portfolio
+baseurl: 
+url: "https://rupeul17.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: YeongJun Seo
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  email: rupeul17@gmail.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: rupeul17
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
@@ -35,6 +35,7 @@ social:
   vimeo:
   wordpress:
   youtube:
+  tistory : Test
   default_txt: "Follow On"
 
 # Build settings
